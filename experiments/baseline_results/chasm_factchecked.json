@@ -1,0 +1,563 @@
+[
+  {
+    "doc_id": "PMID_41593683",
+    "summary": "Evidence for the net benefit of aspirin for primary prevention of cardiovascular disease (CVD) is finely balanced, leading to variation in guideline recommendations internationally. External validity of randomised clinical trial (RCT) evidence may therefore be of particular importance. [95%CI 0.24-0.36] to 11.42 [ 95%CI 9.91-13.17]). [95%-CI 1.5-2.5] to 10.5 [95-12.17] to 12.4 [95\u201312.4] [95\u201012.5]).",
+    "fact_confidence": 0.6306,
+    "claims": [
+      {
+        "text": "Evidence for the net benefit of aspirin for primary prevention of cardiovascular disease (CVD) is finely balanced, leading to variation in guideline recommendations internationally.",
+        "entailment": 0.9938,
+        "supported": true
+      },
+      {
+        "text": "External validity of randomised clinical trial (RCT) evidence may therefore be of particular importance.",
+        "entailment": 0.9928,
+        "supported": true
+      },
+      {
+        "text": "[95%CI 0.24-0.36] to 11.42 [ 95%CI 9.91-13.17]).",
+        "entailment": 0.1423,
+        "supported": false
+      },
+      {
+        "text": "[95%-CI 1.5-2.5] to 10.5 [95-12.17] to 12.4 [95\u201312.4] [95\u201012.5]).",
+        "entailment": 0.3938,
+        "supported": false
+      }
+    ]
+  },
+  {
+    "doc_id": "PMID_41543478",
+    "summary": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have emerged as effective weight loss agents, with growing evidence suggesting potential benefits in MASH. Secondary outcomes included \u22651-point improvements in the nonalcoholic fatty liver disease activity score, changes in liver histologic features, and the incidence of serious adverse events. A total of 6 randomized controlled trials with 1555 patients (1082 GLP- 1RA and 473 placebo) with MASH were included. The pooled serious adverse event rate was comparable to placebo.",
+    "fact_confidence": 0.7473,
+    "claims": [
+      {
+        "text": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have emerged as effective weight loss agents, with growing evidence suggesting potential benefits in MASH.",
+        "entailment": 0.9935,
+        "supported": true
+      },
+      {
+        "text": "Secondary outcomes included \u22651-point improvements in the nonalcoholic fatty liver disease activity score, changes in liver histologic features, and the incidence of serious adverse events.",
+        "entailment": 0.9939,
+        "supported": true
+      },
+      {
+        "text": "A total of 6 randomized controlled trials with 1555 patients (1082 GLP- 1RA and 473 placebo) with MASH were included.",
+        "entailment": 0.9945,
+        "supported": true
+      },
+      {
+        "text": "The pooled serious adverse event rate was comparable to placebo.",
+        "entailment": 0.0075,
+        "supported": false
+      }
+    ]
+  },
+  {
+    "doc_id": "PMID_41629827",
+    "summary": "The global burden of chronic kidney disease (CKD) is increasing, driven largely by risk factors such as hypertension and diabetes. Modifiable lifestyle factors, particularly diet, may play a key role in renal health. These findings highlight the potential for dietary interventions that promote overall healthy eating patterns to contribute to the primary prevention of CKD. Not applicable. This findings highlight-the potential to promote dietary strategies that promote total healthy eating habits to promote a primary prevention for CKD, not applicable. See also [ edit ]",
+    "fact_confidence": 0.4023,
+    "claims": [
+      {
+        "text": "The global burden of chronic kidney disease (CKD) is increasing, driven largely by risk factors such as hypertension and diabetes.",
+        "entailment": 0.9944,
+        "supported": true
+      },
+      {
+        "text": "Modifiable lifestyle factors, particularly diet, may play a key role in renal health.",
+        "entailment": 0.9944,
+        "supported": true
+      },
+      {
+        "text": "These findings highlight the potential for dietary interventions that promote overall healthy eating patterns to contribute to the primary prevention of CKD.",
+        "entailment": 0.2928,
+        "supported": false
+      },
+      {
+        "text": "Not applicable.",
+        "entailment": 0.0163,
+        "supported": false
+      },
+      {
+        "text": "This findings highlight-the potential to promote dietary strategies that promote total healthy eating habits to promote a primary prevention for CKD, not applicable.",
+        "entailment": 0.1109,
+        "supported": false
+      },
+      {
+        "text": "See also [ edit ]",
+        "entailment": 0.0049,
+        "supported": false
+      }
+    ]
+  },
+  {
+    "doc_id": "PMID_41551204",
+    "summary": "We aim to evaluate the effectiveness of the novel real-time continuous glucose monitoring (rtCGM) system \" This prospective, open-label, randomized controlled trial included 172 patients with T2D from the Fatebenefratelli-Sacco Hospital in Milan. Participants were randomized into 2 groups: 86 patients received the After 6 months, the The use of the NCT07089979.",
+    "fact_confidence": 0.9932,
+    "claims": [
+      {
+        "text": "We aim to evaluate the effectiveness of the novel real-time continuous glucose monitoring (rtCGM) system \" This prospective, open-label, randomized controlled trial included 172 patients with T2D from the Fatebenefratelli-Sacco Hospital in Milan.",
+        "entailment": 0.9938,
+        "supported": true
+      },
+      {
+        "text": "Participants were randomized into 2 groups: 86 patients received the After 6 months, the The use of the NCT07089979.",
+        "entailment": 0.9927,
+        "supported": true
+      }
+    ]
+  },
+  {
+    "doc_id": "PMID_41592063",
+    "summary": "This study evaluated the accuracy of phosphatidylethanol (PEth), a direct biomarker of alcohol consumption, in distinguishing individuals with and without heavy drinking days, and sought to establish an optimal cutoff using data from a recent clinical trial in alcohol use disorder (AUD). Moderate-to-strong correlations were observed, strongest at Week 4 (Rho = 0.65, 95% CI, 0.52-0.75, P <.001) and at Week 5 (P <.05, Rho < 0.05, 95-centimeter, P >.001), and at Weeks 6 and 7 (P \u2264.05), respectively, and at Year 4 (2.0-2.5, P =.05). Moderate to strong correlations with PEth were observed. Moderate to Strong correlations are observed. Our findings support the use of PEth as an objective measure of light drinking days in a clinical setting.",
+    "fact_confidence": 0.6288,
+    "claims": [
+      {
+        "text": "This study evaluated the accuracy of phosphatidylethanol (PEth), a direct biomarker of alcohol consumption, in distinguishing individuals with and without heavy drinking days, and sought to establish an optimal cutoff using data from a recent clinical trial in alcohol use disorder (AUD).",
+        "entailment": 0.988,
+        "supported": true
+      },
+      {
+        "text": "Moderate-to-strong correlations were observed, strongest at Week 4 (Rho = 0.65, 95% CI, 0.52-0.75, P <.001) and at Week 5 (P <.05, Rho < 0.05, 95-centimeter, P >.001), and at Weeks 6 and 7 (P \u2264.05), respectively, and at Year 4 (2.0-2.5, P =.05).",
+        "entailment": 0.5623,
+        "supported": false
+      },
+      {
+        "text": "Moderate to strong correlations with PEth were observed.",
+        "entailment": 0.5987,
+        "supported": false
+      },
+      {
+        "text": "Moderate to Strong correlations are observed.",
+        "entailment": 0.993,
+        "supported": true
+      },
+      {
+        "text": "Our findings support the use of PEth as an objective measure of light drinking days in a clinical setting.",
+        "entailment": 0.0023,
+        "supported": false
+      }
+    ]
+  },
+  {
+    "doc_id": "PMID_41540107",
+    "summary": "In patients with stable coronary artery disease (CAD), the long-term benefits of revascularization over medical therapy remain unclear. PCI was superior in 29.2% of comparisons, medical therapy in 23.3%, and the two groups were tied in 47.5%, resulting in a win ratio of 1.25 in favor of PCI (95% confidence interval (CI) 1.01-1.56, P = 0.043). In patients with Stable CAD, the Long-term Benefits of Revascularization Over Medical Therapy Remain unclear. In patients who have stable coronary arterial disease (SAD), long-lasting benefits of medical therapy over PCI (59.5% CI) are unknown. PCI and medical therapy are tied in 46.5%. PCI and Medical therapy remain unknown.",
+    "fact_confidence": 0.7416,
+    "claims": [
+      {
+        "text": "In patients with stable coronary artery disease (CAD), the long-term benefits of revascularization over medical therapy remain unclear.",
+        "entailment": 0.9943,
+        "supported": true
+      },
+      {
+        "text": "PCI was superior in 29.2% of comparisons, medical therapy in 23.3%, and the two groups were tied in 47.5%, resulting in a win ratio of 1.25 in favor of PCI (95% confidence interval (CI) 1.01-1.56, P = 0.043).",
+        "entailment": 0.9919,
+        "supported": true
+      },
+      {
+        "text": "In patients with Stable CAD, the Long-term Benefits of Revascularization Over Medical Therapy Remain unclear.",
+        "entailment": 0.9941,
+        "supported": true
+      },
+      {
+        "text": "In patients who have stable coronary arterial disease (SAD), long-lasting benefits of medical therapy over PCI (59.5% CI) are unknown.",
+        "entailment": 0.0453,
+        "supported": false
+      },
+      {
+        "text": "PCI and medical therapy are tied in 46.5%.",
+        "entailment": 0.9887,
+        "supported": true
+      },
+      {
+        "text": "PCI and Medical therapy remain unknown.",
+        "entailment": 0.4355,
+        "supported": false
+      }
+    ]
+  },
+  {
+    "doc_id": "PMID_41629143",
+    "summary": "SGLT2 inhibitorsTheir mechanism combines moderate osmotic natriuresis, selective reduction of extracellular volume, renal protection, and minimal neurohormonal activation. In clinical practice, their combination with diuretics requires careful titration to prevent hypovolemia, hypotension, and renal dysfunction, especially in frail elderly patients. Evidence suggests that SGLT 2i may reduce chronic diuretic requirements, improve renal function, and provide additional cardiovascular protection.",
+    "fact_confidence": 0.7957,
+    "claims": [
+      {
+        "text": "SGLT2 inhibitorsTheir mechanism combines moderate osmotic natriuresis, selective reduction of extracellular volume, renal protection, and minimal neurohormonal activation.",
+        "entailment": 0.399,
+        "supported": false
+      },
+      {
+        "text": "In clinical practice, their combination with diuretics requires careful titration to prevent hypovolemia, hypotension, and renal dysfunction, especially in frail elderly patients.",
+        "entailment": 0.9936,
+        "supported": true
+      },
+      {
+        "text": "Evidence suggests that SGLT 2i may reduce chronic diuretic requirements, improve renal function, and provide additional cardiovascular protection.",
+        "entailment": 0.9946,
+        "supported": true
+      }
+    ]
+  },
+  {
+    "doc_id": "PMID_41654775",
+    "summary": "This study aimed to evaluate the risk of doxorubicin-induced cardiotoxicity in newly diagnosed breast cancer patients with type 2 diabetes receiving dapagliflozin in addition to metformin, using echocardiographic methods, and to investigate the potential cardioprotective effects of dapazlozin. In this prospective observational study, a total of 60 newly diagnosed women with type 1 diabetes were enrolled. Within-group changes from baseline to 3 months were analyzed with paired t-tests. Between-group comparisons of 3-month outcomes and changes (\u0394LVEF, \u0394LVGLS, \u0394NT-proBNP) were also conducted using independent, randomized, and multivariable, non-invasive, and non-randomized (non-inclusive) methods. The favorable changes observed in LVEF ( LVGLS) and NT-proBP parameters suggest that Dapagllozin may be considered a potential cardirotective agent and incorporated into preventive strategies against chemotherapy-related cardiotoxic in diabetic patients. These hypothesis-generating findings require confirmation in larger randomized trials powered for clinical endpoints with longer follow-up.The favorable changes in LveF, LV",
+    "fact_confidence": 0.3632,
+    "claims": [
+      {
+        "text": "This study aimed to evaluate the risk of doxorubicin-induced cardiotoxicity in newly diagnosed breast cancer patients with type 2 diabetes receiving dapagliflozin in addition to metformin, using echocardiographic methods, and to investigate the potential cardioprotective effects of dapazlozin.",
+        "entailment": 0.9917,
+        "supported": true
+      },
+      {
+        "text": "In this prospective observational study, a total of 60 newly diagnosed women with type 1 diabetes were enrolled.",
+        "entailment": 0.0703,
+        "supported": false
+      },
+      {
+        "text": "Within-group changes from baseline to 3 months were analyzed with paired t-tests.",
+        "entailment": 0.9906,
+        "supported": true
+      },
+      {
+        "text": "Between-group comparisons of 3-month outcomes and changes (\u0394LVEF, \u0394LVGLS, \u0394NT-proBNP) were also conducted using independent, randomized, and multivariable, non-invasive, and non-randomized (non-inclusive) methods.",
+        "entailment": 0.1215,
+        "supported": false
+      },
+      {
+        "text": "The favorable changes observed in LVEF ( LVGLS) and NT-proBP parameters suggest that Dapagllozin may be considered a potential cardirotective agent and incorporated into preventive strategies against chemotherapy-related cardiotoxic in diabetic patients.",
+        "entailment": 0.0011,
+        "supported": false
+      },
+      {
+        "text": "These hypothesis-generating findings require confirmation in larger randomized trials powered for clinical endpoints with longer follow-up.The favorable changes in LveF, LV",
+        "entailment": 0.004,
+        "supported": false
+      }
+    ]
+  },
+  {
+    "doc_id": "PMID_41609932",
+    "summary": "Antidepressant augmentation with bupropion was recently demonstrated to increase fall risk in older adults, though specific subpopulations that may have increased risk have not yet been identified. There were significant main effects of bpropion dosage level (low, medium, or high) (p = 0.04) and number of falls during the six months prior to study entry (p < 0.001). There were major effects of bupropionic dosage level, low, medium ( or high), (p > 0.05) and (p \u2265 0.01) and total number of fall during the 6 months prior (p< 0.02). Study fall rates extrapolated out to the number of fell per year of treatment for subgroups distinguished by dosage level and prior falls ranged from 1.39 falls/year (no history of falls, low dosage bupropION) to 12.32 falls/years (3 + falls during 6 months before study entry, high dosage buproion).",
+    "fact_confidence": 0.7741,
+    "claims": [
+      {
+        "text": "Antidepressant augmentation with bupropion was recently demonstrated to increase fall risk in older adults, though specific subpopulations that may have increased risk have not yet been identified.",
+        "entailment": 0.9937,
+        "supported": true
+      },
+      {
+        "text": "There were significant main effects of bpropion dosage level (low, medium, or high) (p = 0.04) and number of falls during the six months prior to study entry (p < 0.001).",
+        "entailment": 0.9936,
+        "supported": true
+      },
+      {
+        "text": "There were major effects of bupropionic dosage level, low, medium ( or high), (p > 0.05) and (p \u2265 0.01) and total number of fall during the 6 months prior (p< 0.02).",
+        "entailment": 0.8514,
+        "supported": true
+      },
+      {
+        "text": "Study fall rates extrapolated out to the number of fell per year of treatment for subgroups distinguished by dosage level and prior falls ranged from 1.39 falls/year (no history of falls, low dosage bupropION) to 12.32 falls/years (3 + falls during 6 months before study entry, high dosage buproion).",
+        "entailment": 0.2577,
+        "supported": false
+      }
+    ]
+  },
+  {
+    "doc_id": "PMID_41553512",
+    "summary": "Heart failure (HF) patients with concomitant coronary artery disease (CAD) and type 2 diabetes mellitus (DM) represent a particularly high-risk population with increased morbidity and mortality. Acute coronary syndrome (ACS) often serves as a critical event that can trigger the initiation of guideline-directed medical therapy (GDMT). Statin use increased from 22.3% to 82.4%, ACEi/ARB/ARNI from 58.2% to 89.3%, beta-blockers from 44.8% to 86.8%, and MRAs from 23.4% to 67.3%. Independent adverse outcome predictors were low hemoglobin, high HbA1c, impaired renal function, and reduced LVEF. Patients with good adherence had significantly lower risks of rehospitalization (HR 0.52) and mortality (PR 0.46). Independent adverse outcomes predictors for patients with poor adherence to GDMT, including high hemoglobin (HbA2c), impaired hemoglobin in the blood, and increased risk of death from heart failure (HR 1.2).",
+    "fact_confidence": 0.3774,
+    "claims": [
+      {
+        "text": "Heart failure (HF) patients with concomitant coronary artery disease (CAD) and type 2 diabetes mellitus (DM) represent a particularly high-risk population with increased morbidity and mortality.",
+        "entailment": 0.9944,
+        "supported": true
+      },
+      {
+        "text": "Acute coronary syndrome (ACS) often serves as a critical event that can trigger the initiation of guideline-directed medical therapy (GDMT).",
+        "entailment": 0.907,
+        "supported": true
+      },
+      {
+        "text": "Statin use increased from 22.3% to 82.4%, ACEi/ARB/ARNI from 58.2% to 89.3%, beta-blockers from 44.8% to 86.8%, and MRAs from 23.4% to 67.3%.",
+        "entailment": 0.0183,
+        "supported": false
+      },
+      {
+        "text": "Independent adverse outcome predictors were low hemoglobin, high HbA1c, impaired renal function, and reduced LVEF.",
+        "entailment": 0.0535,
+        "supported": false
+      },
+      {
+        "text": "Patients with good adherence had significantly lower risks of rehospitalization (HR 0.52) and mortality (PR 0.46).",
+        "entailment": 0.0058,
+        "supported": false
+      },
+      {
+        "text": "Independent adverse outcomes predictors for patients with poor adherence to GDMT, including high hemoglobin (HbA2c), impaired hemoglobin in the blood, and increased risk of death from heart failure (HR 1.2).",
+        "entailment": 0.2856,
+        "supported": false
+      }
+    ]
+  },
+  {
+    "doc_id": "PMID_41572076",
+    "summary": "The behavioural tests were performed after eight weeks of inducing diabetes. Real-time polymerase chain reaction was used to carry out expression analysis. These findings highlight potential therapeutic targets for mitigating diabetes-associated neurobehavioral dysfunction. The behavioural tests (Fig. 1) were performed at eight weeks after inducing diabetes, and after 8 weeks of induced diabetes. (Source: The authors\u2019 paper)The behavioural test was performed after two weeks of induce diabetes.",
+    "fact_confidence": 0.4156,
+    "claims": [
+      {
+        "text": "The behavioural tests were performed after eight weeks of inducing diabetes.",
+        "entailment": 0.9935,
+        "supported": true
+      },
+      {
+        "text": "Real-time polymerase chain reaction was used to carry out expression analysis.",
+        "entailment": 0.9891,
+        "supported": true
+      },
+      {
+        "text": "These findings highlight potential therapeutic targets for mitigating diabetes-associated neurobehavioral dysfunction.",
+        "entailment": 0.0017,
+        "supported": false
+      },
+      {
+        "text": "The behavioural tests (Fig.",
+        "entailment": 0.1138,
+        "supported": false
+      },
+      {
+        "text": "1) were performed at eight weeks after inducing diabetes, and after 8 weeks of induced diabetes.",
+        "entailment": 0.3583,
+        "supported": false
+      },
+      {
+        "text": "(Source: The authors\u2019 paper)The behavioural test was performed after two weeks of induce diabetes.",
+        "entailment": 0.0371,
+        "supported": false
+      }
+    ]
+  },
+  {
+    "doc_id": "PMID_41623057",
+    "summary": "The pullback pressure gradient (PPG) is a novel physiological metric that quantifies coronary artery disease patterns as focal or diffuse on a scale from 0 to 1. The mean age was 67.6\u00b110.2 years, 24% were female, and 29% had diabetes. The median age was 66.5\u00b19.5 years, 25% were male, and 24% had female. At 1 year, patients with focal coronary artery diseases reported less angina than those with diffuse coronary artery Disease (Seattle Angina Questionnaire angina frequency score, 95.3\u00b1 9.9 versus 92.7\u00b115.0; In patients with flow-limiting coronary artery disorder, the presence of focal disease defined by high PPG was associated with greater symptomatic relief at 1 year compared with diffuse disease (low PPG).",
+    "fact_confidence": 0.7474,
+    "claims": [
+      {
+        "text": "The pullback pressure gradient (PPG) is a novel physiological metric that quantifies coronary artery disease patterns as focal or diffuse on a scale from 0 to 1.",
+        "entailment": 0.994,
+        "supported": true
+      },
+      {
+        "text": "The mean age was 67.6\u00b110.2 years, 24% were female, and 29% had diabetes.",
+        "entailment": 0.9938,
+        "supported": true
+      },
+      {
+        "text": "The median age was 66.5\u00b19.5 years, 25% were male, and 24% had female.",
+        "entailment": 0.3509,
+        "supported": false
+      },
+      {
+        "text": "At 1 year, patients with focal coronary artery diseases reported less angina than those with diffuse coronary artery Disease (Seattle Angina Questionnaire angina frequency score, 95.3\u00b1 9.9 versus 92.7\u00b115.0; In patients with flow-limiting coronary artery disorder, the presence of focal disease defined by high PPG was associated with greater symptomatic relief at 1 year compared with diffuse disease (low PPG).",
+        "entailment": 0.6508,
+        "supported": true
+      }
+    ]
+  },
+  {
+    "doc_id": "PMID_41574965",
+    "summary": "Effective anti-obesity interventions that preserve lean mass are of increasing clinical significance for optimizing metabolic health. Lorcaserin reduced total body weight (time*treatment, p = 0.004). Lorcasersin reduced abdominal fat mass (time-treated, p < 0.001). Adjusted delta and endpoint comparisons showed reductions in total body (p = 0 and 0.031) and abdominal fat (p > 0.002). These results support the hypothesis that reducing total body fat mass may improve cardiometabolic health primarily through reductions in central adiposity.",
+    "fact_confidence": 0.4314,
+    "claims": [
+      {
+        "text": "Effective anti-obesity interventions that preserve lean mass are of increasing clinical significance for optimizing metabolic health.",
+        "entailment": 0.9942,
+        "supported": true
+      },
+      {
+        "text": "Lorcaserin reduced total body weight (time*treatment, p = 0.004).",
+        "entailment": 0.9869,
+        "supported": true
+      },
+      {
+        "text": "Lorcasersin reduced abdominal fat mass (time-treated, p < 0.001).",
+        "entailment": 0.1553,
+        "supported": false
+      },
+      {
+        "text": "Adjusted delta and endpoint comparisons showed reductions in total body (p = 0 and 0.031) and abdominal fat (p > 0.002).",
+        "entailment": 0.0072,
+        "supported": false
+      },
+      {
+        "text": "These results support the hypothesis that reducing total body fat mass may improve cardiometabolic health primarily through reductions in central adiposity.",
+        "entailment": 0.0134,
+        "supported": false
+      }
+    ]
+  },
+  {
+    "doc_id": "PMID_41539381",
+    "summary": "Seasonal peaks are consistently associated with excess hospitalizations and mortality. Systemic inflammation, plaque destabilization, metabolic imbalance, endothelial dysfunction, and pro-thrombotic activation collectively contribute to acute coronary syndromes, myocarditis, arrhythmias, and acute or worsening heart failure. Despite the availability of effective and inexpensive vaccines, influenza vaccination remains underused in high-risk cardiovascular populations. Randomized trials and meta-analyses consistently support vaccination as a powerful preventive tool, associated with a 25-37% reduction in major adverse cardiovascular events and mortality, with benefits comparable to established cardioprotective therapies.",
+    "fact_confidence": 0.9939,
+    "claims": [
+      {
+        "text": "Seasonal peaks are consistently associated with excess hospitalizations and mortality.",
+        "entailment": 0.994,
+        "supported": true
+      },
+      {
+        "text": "Systemic inflammation, plaque destabilization, metabolic imbalance, endothelial dysfunction, and pro-thrombotic activation collectively contribute to acute coronary syndromes, myocarditis, arrhythmias, and acute or worsening heart failure.",
+        "entailment": 0.9943,
+        "supported": true
+      },
+      {
+        "text": "Despite the availability of effective and inexpensive vaccines, influenza vaccination remains underused in high-risk cardiovascular populations.",
+        "entailment": 0.9942,
+        "supported": true
+      },
+      {
+        "text": "Randomized trials and meta-analyses consistently support vaccination as a powerful preventive tool, associated with a 25-37% reduction in major adverse cardiovascular events and mortality, with benefits comparable to established cardioprotective therapies.",
+        "entailment": 0.9931,
+        "supported": true
+      }
+    ]
+  },
+  {
+    "doc_id": "PMID_41625815",
+    "summary": "Diabetes mellitus is a leading cause of global mortality with significant health complications. Psychological measures improved, with PSS scores dropping from 17.7 \u00b1 3.2 to 9.80 \u00b1 1.67 in YG and 16.0 \u00b1 2.3 to 9 (53 \u00b1 1.)48 in CYG; smaller reductions occurred in GH and Control. Psychological Measures improved, as PSS scored dropped from 15.5 \u00b1 4.0 to 8.8 \u00b1 0.5 in YGs and 16.0 \u00b1 3 to 9(53 \u00b1 2) to 9,53\u2013 1.46 in CYGs. The combined yoga and gastro\u2011hepatic pack (CYG) intervention outperformed either alone in reducing stress and improving glycemic control in type 2 diabetes. This safe, holistic approach enhances overall quality of life, though long-term studies are needed to confirm the sustainability of these benefits and their impact on diabetes-related complications.",
+    "fact_confidence": 0.542,
+    "claims": [
+      {
+        "text": "Diabetes mellitus is a leading cause of global mortality with significant health complications.",
+        "entailment": 0.9945,
+        "supported": true
+      },
+      {
+        "text": "Psychological measures improved, with PSS scores dropping from 17.7 \u00b1 3.2 to 9.80 \u00b1 1.67 in YG and 16.0 \u00b1 2.3 to 9 (53 \u00b1 1.",
+        "entailment": 0.9495,
+        "supported": true
+      },
+      {
+        "text": ")48 in CYG; smaller reductions occurred in GH and Control.",
+        "entailment": 0.8899,
+        "supported": true
+      },
+      {
+        "text": "Psychological Measures improved, as PSS scored dropped from 15.5 \u00b1 4.0 to 8.8 \u00b1 0.5 in YGs and 16.0 \u00b1 3 to 9(53 \u00b1 2) to 9,53\u2013 1.46 in CYGs.",
+        "entailment": 0.2221,
+        "supported": false
+      },
+      {
+        "text": "The combined yoga and gastro\u2011hepatic pack (CYG) intervention outperformed either alone in reducing stress and improving glycemic control in type 2 diabetes.",
+        "entailment": 0.1945,
+        "supported": false
+      },
+      {
+        "text": "This safe, holistic approach enhances overall quality of life, though long-term studies are needed to confirm the sustainability of these benefits and their impact on diabetes-related complications.",
+        "entailment": 0.0017,
+        "supported": false
+      }
+    ]
+  },
+  {
+    "doc_id": "PMID_41557987",
+    "summary": "Adherence was measured semiannually for 3 years using a validated three-item scale (0-100, lowest to highest adherence) in a substudy (N = 1,739). Analyses included evaluation of adherence over time and testing treatment group differences in adherence and in the association between adherence and primary (HbA1c \u22657.0%) and secondary (Habato1c >7.5%) glycemic outcomes (both P < 0.0001). Over follow-up and across groups, a 10-point decrease in adherence was associated with 15% and 19% increased risk of reaching primary (1.0%), secondary (2.5%), and tertiary (3.0% and 4.0%, respectively), respectively, and with an 8-point increase in adherence to primary (7.7.1%) or secondary (8.0.5% glycemic) outcomes (and P <.0001). Medication adherence was consistently high in GRADE.",
+    "fact_confidence": 0.5056,
+    "claims": [
+      {
+        "text": "Adherence was measured semiannually for 3 years using a validated three-item scale (0-100, lowest to highest adherence) in a substudy (N = 1,739).",
+        "entailment": 0.9892,
+        "supported": true
+      },
+      {
+        "text": "Analyses included evaluation of adherence over time and testing treatment group differences in adherence and in the association between adherence and primary (HbA1c \u22657.0%) and secondary (Habato1c >7.5%) glycemic outcomes (both P < 0.0001).",
+        "entailment": 0.9436,
+        "supported": true
+      },
+      {
+        "text": "Over follow-up and across groups, a 10-point decrease in adherence was associated with 15% and 19% increased risk of reaching primary (1.0%), secondary (2.5%), and tertiary (3.0% and 4.0%, respectively), respectively, and with an 8-point increase in adherence to primary (7.7.1%) or secondary (8.0.5% glycemic) outcomes (and P <.0001).",
+        "entailment": 0.0306,
+        "supported": false
+      },
+      {
+        "text": "Medication adherence was consistently high in GRADE.",
+        "entailment": 0.059,
+        "supported": false
+      }
+    ]
+  },
+  {
+    "doc_id": "PMID_41533371",
+    "summary": "Pancreas divisum is implicated as an obstructive cause for acute pancreatitis. Observational data suggest endoscopic retrograde cholangiopancreatography (ERCP) with minor papillotomy reduces the risk of pancreatitis episodes. The trial was conducted between September 1, 2018, and August 30, 2024, at 21 referral centers in the US and Canada. Last follow-up occurred on February 15, 2025. ClinicalTrials.gov Identifier: NCT03609944. Clinical Trials.govIdentifier: PubMed Abstract: Google Scholar. PubMed Abstract | CrossRef Full Text | Google Scholar | Full Text",
+    "fact_confidence": 0.6159,
+    "claims": [
+      {
+        "text": "Pancreas divisum is implicated as an obstructive cause for acute pancreatitis.",
+        "entailment": 0.994,
+        "supported": true
+      },
+      {
+        "text": "Observational data suggest endoscopic retrograde cholangiopancreatography (ERCP) with minor papillotomy reduces the risk of pancreatitis episodes.",
+        "entailment": 0.9944,
+        "supported": true
+      },
+      {
+        "text": "The trial was conducted between September 1, 2018, and August 30, 2024, at 21 referral centers in the US and Canada.",
+        "entailment": 0.9931,
+        "supported": true
+      },
+      {
+        "text": "Last follow-up occurred on February 15, 2025.",
+        "entailment": 0.9939,
+        "supported": true
+      },
+      {
+        "text": "ClinicalTrials.gov Identifier: NCT03609944.",
+        "entailment": 0.0801,
+        "supported": false
+      },
+      {
+        "text": "Clinical Trials.govIdentifier: PubMed Abstract: Google Scholar.",
+        "entailment": 0.0896,
+        "supported": false
+      },
+      {
+        "text": "PubMed Abstract | CrossRef Full Text | Google Scholar | Full Text",
+        "entailment": 0.166,
+        "supported": false
+      }
+    ]
+  },
+  {
+    "doc_id": "PMID_41550872",
+    "summary": "The optimal combination therapy for heart failure with reduced ejection fraction (HFrEF) involving sodium-glucose transporter 2 inhibitors (SGLT2i), angiotensin receptor-neprilysin inhibitors (ARNI), and conventional triple therapy remains uncertain due to the lack of direct comparative evidence. We conducted a Bayesian network meta-analysis of randomized controlled trials (RCTs) comparing six treatment regimens. The safety profiles differ significantly, particularly regarding hypotension risk with ARNI and renal protection with SGLT 2i. The choice of regimen should be individualized based on patient priorities, comorbidities, and safety tolerability profiles. The data were obtained from six randomized controlled controlled trials and from six RCTs comparing six therapy regimens, with the safety profiles of ARNI, SGL T2i, and ARNI.",
+    "fact_confidence": 0.407,
+    "claims": [
+      {
+        "text": "The optimal combination therapy for heart failure with reduced ejection fraction (HFrEF) involving sodium-glucose transporter 2 inhibitors (SGLT2i), angiotensin receptor-neprilysin inhibitors (ARNI), and conventional triple therapy remains uncertain due to the lack of direct comparative evidence.",
+        "entailment": 0.9931,
+        "supported": true
+      },
+      {
+        "text": "We conducted a Bayesian network meta-analysis of randomized controlled trials (RCTs) comparing six treatment regimens.",
+        "entailment": 0.9932,
+        "supported": true
+      },
+      {
+        "text": "The safety profiles differ significantly, particularly regarding hypotension risk with ARNI and renal protection with SGLT 2i.",
+        "entailment": 0.0072,
+        "supported": false
+      },
+      {
+        "text": "The choice of regimen should be individualized based on patient priorities, comorbidities, and safety tolerability profiles.",
+        "entailment": 0.0348,
+        "supported": false
+      },
+      {
+        "text": "The data were obtained from six randomized controlled controlled trials and from six RCTs comparing six therapy regimens, with the safety profiles of ARNI, SGL T2i, and ARNI.",
+        "entailment": 0.0065,
+        "supported": false
+      }
+    ]
+  }
+]
