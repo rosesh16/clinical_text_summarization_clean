@@ -3,6 +3,8 @@ import os
 import sys
 import numpy as np
 
+from src.chasm.hierarchy.mmr_selector import MultiDocMMRSelector
+
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", ".."))
 sys.path.insert(0, PROJECT_ROOT)
 
@@ -75,8 +77,22 @@ def main():
             to_tensor(normalize(pos_scores))
         ).detach().numpy()
 
-        salient_sents = ranker.rerank(
-            sentences, scores, chunk_ids, top_k=TOP_K
+        # Track document ids
+        doc_ids = []
+        for doc_index, doc in enumerate([doc]):  # replace with real multi-doc list later
+            for c in doc["chunks"]:
+                for _ in c["sentences"]:
+                    doc_ids.append(doc_index)
+
+        mmr_selector = MultiDocMMRSelector()
+
+        salient_sents, _ = mmr_selector.select(
+            sentences=sentences,
+            salience_scores=scores,
+            doc_ids=doc_ids,
+            top_k=TOP_K,
+            lambda_param=0.7,
+            max_per_doc=3
         )
 
         generator_input = " ".join(salient_sents)
