@@ -21,8 +21,8 @@ class BartGenerator:
                 **inputs,
                 max_length=max_len,
                 min_length=min_len,
-                num_beams=4,
-                length_penalty=2.0,
+                num_beams=2 ,
+                length_penalty=1.0,
                 early_stopping=True
             )
 
