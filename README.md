@@ -1,6 +1,5 @@
-📌 Overview
-
-CHASM (Chunk-Hierarchical Abstractive Summarization Module) is a multi-stage scientific document summarization framework designed for long, structured research articles.
+CHASM
+Chunk-Hierarchical Abstractive Summarization Module
 
 The system combines:
 Graph-based salience estimation
@@ -62,29 +61,7 @@ verifier.py	Fact-consistency verification
 scorers.py	ROUGE, BERTScore, redundancy evaluation
 
 
-📂 Project Structure
-Suvidha_Internship/
-│
-├── data/
-│   ├── raw/
-│   │   ├── pubmed/
-│   │   └── arxiv/
-│   └── processed/
-│
-├── experiments/
-│   ├── baseline_results/
-│   └── metrics/
-│
-├── scripts/
-│   ├── run_chasm_full_arxiv.py
-│   ├── run_textrank_arxiv.py
-│   ├── run_bertsum_arxiv.py
-│   └── evaluate_arxiv_chasm.py
-│
-├── src/chasm/
-│
-├── requirements.txt
-└── README.md
+
 🚀 Installation
 1️⃣ Clone the Repository
 git clone <your-repository-url>
